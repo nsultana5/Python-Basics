@@ -1,4 +1,4 @@
-#Write a Python program that takes a year as input and determines if it is a leap year or not.
+# Assignment 1:Write a Python program that takes a year as input and determines if it is a leap year or not.
 #Condition for leap year
 # 1.A year is a leap year if it is divisible by 400 2.A year is a leap year if it is divisible by 4 but not devisible by 100.
 input_year =int(input("Enter a year:"))                      #user input
