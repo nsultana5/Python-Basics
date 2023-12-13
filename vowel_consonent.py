@@ -1,4 +1,4 @@
-                                     #Assignment 3:Write a Python program that takes a single character as input and determines whether it is a vowel or a consonant.
+ #Assignment 3:Write a Python program that takes a single character as input and determines whether it is a vowel or a consonant.
 
 input_char = input("Enter a single character:")
 def vowel_consonant_classify(char):
