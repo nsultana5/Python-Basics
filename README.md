@@ -1,9 +1,2 @@
 This repository serves as a resource for learning and practicing Python basics.
-Topics Covered:
-Variables and Data Types
-Control Flow (if statements, loops)
-Functions
-Lists, Tuples, and Dictionaries
-File Handling
-Exception Handling
-Object-Oriented Programming (OOP) basics
+Topics Covered:1.Variables and Data Types 2.Control Flow (if statements, loops) 3.Functions 4.Lists, Tuples, and Dictionaries 5.File HandlingException Handling 6.Object-Oriented Programming (OOP) basics.
